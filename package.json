@@ -1,7 +1,7 @@
 {
 	"dependencies": {
-		"concurrently": "^8.2.2",
-		"js-cookie": "^3.0.5"
+    "concurrently": "^9.0.0", // Updated to the latest version
+    "js-cookie": "^3.0.5"
 	},
 	"scripts": {
 		"start-frontend": "cd frontend && npm run dev",
